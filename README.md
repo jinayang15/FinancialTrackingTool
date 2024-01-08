@@ -7,3 +7,4 @@ This project is created in MS Excel with VBA. In order to run the project, you n
 6. You are good to go!
 
 Instructions are available upon opening the project, however, if you forget or want to know what each feature does, make sure to look for the "?" buttons that will describe each functionality.
+Demo data is already added so that you can test the various features. Feel free to edit the tool for your personal needs.
